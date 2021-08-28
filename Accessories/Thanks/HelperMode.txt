@@ -1,0 +1,38 @@
+﻿using System;
+using Terraria;
+using Terraria.ID;
+using Terraria.ModLoader;
+using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Graphics;
+using System.Collections.Generic;
+
+namespace extraflails.Accessories.Thanks
+{
+    class HelperMode : ModItem
+    {
+        public override void SetStaticDefaults()
+        {
+            DisplayName.SetDefault("Appreciation");
+            Tooltip.SetDefault("Thank you to everyone who helped out with the mod");
+        }
+
+        public override void SetDefaults()
+        {
+            item.CloneDefaults(ItemID.LifeFruit);
+            item.useTime = 30;
+            item.useAnimation = 30;
+            item.consumable = false;
+            item.maxStack = 1;
+        }
+
+        public override bool UseItem(Player player)
+        {
+       //     NetMessage.BroadcastChatMessage(Th, Color.White);
+            FlailModPlayer playerget = player.GetModPlayer<FlailModPlayer>();
+
+            playerget.appreciation = !playerget.appreciation;
+            return true;
+        }
+
+    }
+}
