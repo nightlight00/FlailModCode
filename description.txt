@@ -1,0 +1,166 @@
+---Expanded Flail Arsenal---
+
+Expanded Flail Arsenal is mod thats main goal is to make Terraria beatable using only flails
+
+As of now, the mod currently has:
+- 33 new flails
+- 2 new armor sets
+- 5 new shields
+- 7 new melee/flail accessories 
+
+Want more information about anything ingame?
+Check the wiki:
+https://terrariamods.fandom.com/wiki/Expanded_Flail_Arsenal
+
+==== Announcement ====
+The final major update of the mod has released
+
+If you have witnessed a bug, please come to the discord server to tell me
+
+-- Dev Team --
+nightlight
+Sir Mark
+
+-- Helpers --
+Vitt
+Bologna
+Xinim
+Mikali
+
+CHANGELOG
+v1.14
+-added 2 new accessories
+-fixed code
+
+v1.13.1
+-adds in new SpaceKnight helmet
+-numerous fixes and changes
+
+v1.13
+-adds in 8 new flails
+-adds in 1 new accessoy
+-adds in 1 new armor set
+-adds in 1 new armor piece
+
+v1.12.4
+-buf fixes
+-changed a few stats
+
+v1.12.3
+-nerfed a few flails
+
+v1.12.2
+-fixed a few rarites 
+
+v1.12.1
+-fixed Ball and Chain bone attack
+-fixed Starvation direction it faced
+-improved the Chained Bolt shine
+
+v1.12
+-added Chained Bolt
+-added Starvation 
+-added Snowball
+-added Final Striker
+
+v1.11
+-added Frozen Lantern
+-added Magical Triangle
+-added Shroomite Warhead
+
+-fixed particles of Cursed Soul
+
+v1.10
+-added new spin buffs to a few flails
+-changed a few recipes
+
+v1.9.1
+-buffed all flails
+
+v1.9
+-some flails now have 1.4 flail mechanics
+-added 5 new shields
+---Molten, Rotten, Flesh, Turtle and Beetle
+-added new flail chain accessories
+---Chain Shackle, Oil Shackle, Hellfire Shackle and Shadowflame Shackle
+-added Crusader armor
+-added dev weapons
+
+v1.8
+-added Eternal Soul
+
+v1.7.1
+-fixed Flyal rarity
+
+v1.7
+-added Star Eye (design and idea by Vitt)
+
+v1.6.3
+-new players now spawn with an Adventurer's Lantern
+
+v1.6.2
+-buffed Scarlet Raptors
+-buffed Cursed Soul
+
+-fixed Scarlet Raptors recipe
+
+v1.6
+-added Scarlet Raptors
+-added Cursed Soul
+
+-removed Agonizer
+-removed The Slaughter
+
+v1.5.1
+-forgot to add a way to get Flyal, so i added it in now
+
+v1.5
+-added Flyal
+
+v1.4
+-added Crusader
+-added True Crusader
+
+v1.3.2
+-changed name to Expanded Flail Arsenal
+
+v1.3.1
+-made The Cookie obtainable
+
+v1.3
+-added The Cookie
+
+v1.2.2
+-Ball & Chain can now be dropped by skeletons
+-Silver Spinner and Tungsten Spinner now have correct rarity
+
+v1.2.1
+-fixed a few typos
+
+v1.2
+-added Silver Spinner
+-added Tungsten Spinner
+-added Ball & Chain
+
+v1.1.2
+-Birdies feathers now have there own sprite
+-mod icon doenst work
+
+v1.1.1
+-The Hive now works with Hive Pack
+-added mod icon
+
+v1.1
+-added Agonizer
+-added The Slaughter
+-Birdies feathers no longer home in on enemies
+
+v1
+-added Adventurer's Lantern
+-added Thorny Flail
+-added The Hive
+-added Solar Fury
+-added Amalgam
+-added Birdie
+-added Bundle O' Joy
+-released

@@ -1,0 +1,4 @@
+displayName = Expanded Flail Arsenal
+author = nightlight
+version = 1.14
+homepage = https://discord.gg/FUNKT5fqAf
